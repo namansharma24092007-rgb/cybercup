@@ -1,0 +1,6 @@
+{
+  "name": "UPI Raksha AI - Sovereign Pre-PIN Scam Guardian",
+  "description": "Real-time AI defense engine and sovereign core ops console protecting India's UPI ecosystem with pre-PIN fraud intercept, zero-day threat detection, and SHAP explainability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
